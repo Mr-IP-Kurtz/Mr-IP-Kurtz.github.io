@@ -1,5 +1,5 @@
 = A Flower
 :published_at: 2016-07-01
-:hp-tags: mu, FirstPost, Flower
+:hp-tags: µ: FirstPost, Flower, Rose, Joy, Happyness, 
 
 image::CameraZOOM-20160624075604813.jpg[]
