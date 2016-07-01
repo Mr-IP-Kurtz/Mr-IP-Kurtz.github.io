@@ -1,7 +1,0 @@
-= A Flower
-:published_at: 2016-07-01
-:hp-tags: FirstPost, Flower, Rose, Joy, Happyness, 
-
-image::CameraZOOM-20160624075604813.jpg[]
-
-As of today, I will post here occassionally flowers just for the fun of it. Just because I like seeing them. So if you like to see a flower, just look for this tag.
