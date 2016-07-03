@@ -7,6 +7,7 @@
   "site": {
     "title": "The Horror, the horror...",
     "description": "Nachrichten von einem dunklen Ort tief im nirgendwo, flussaufwärts ins Nichts.\n  \nTales from a dark dark place in a country far far away, travelling up a long long river into nowhere...\n\n",
+    "cover": "image::IMG_0194.JPG[]",
     "postsPerPage": "5"
   },
   "socialnetwork": {},
