@@ -1,8 +1,9 @@
 
-= Achill
+= Achill and Tyler
 
+:hp-alt-title: Achillis und Tyler
 :published_at: 2016-07-04
-:hp-tags: Fight
+:hp-tags: Fight, Fight Club, Life
 
 video::VzsfyxACV7M[youtube]
 
