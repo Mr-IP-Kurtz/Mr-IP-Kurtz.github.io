@@ -11,7 +11,9 @@
     "cover": "",
     "postsPerPage": "5"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "twitter": "https://twitter.com/IP_Kurtz"
+  },
   "theme": {
     "name": "uno"
   }
