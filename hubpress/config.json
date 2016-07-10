@@ -9,7 +9,8 @@
     "description": "Nachrichten von einem dunklen Ort tief im nirgendwo, flussaufwärts ins Nichts.\n  \nTales from a dark dark place in a country far far away, travelling up a long long river into nowhere...\n\n _Disclaimer: This is not something crazy, fucked up, creepy thing. \n It is a display of thoughts and feelings without any consequences. It is merely meant to sanitise my own brain._\n\n",
     "logo": "",
     "cover": "",
-    "postsPerPage": "5"
+    "postsPerPage": "5",
+    "googleAnalytics": "UA-80520780-1"
   },
   "socialnetwork": {
     "twitter": "https://twitter.com/IP_Kurtz"
